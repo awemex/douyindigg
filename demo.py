@@ -1,6 +1,7 @@
 import requests
 import json
-#替换下面参数
+#替换下面参数 仅支持ios设备信息
+
 iid='XX'
 device_id='XX'
 aweme_id = 'XX'
